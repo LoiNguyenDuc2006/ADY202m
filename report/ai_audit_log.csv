@@ -1,0 +1,3 @@
+date,group,step,prompt,tool,ai_output,verified_how,decision,hallucination
+2026-09-18,Nhom 3,Step 1d,Đề tài Internet Traffic Forecasting and Outage Warning across Twenty Countries from Cloudflare Radar with Cloud Incident Covariates: gợi ý nguồn phụ ghép được theo ts,Claude,3 nguồn được gợi ý,"mở URL, kiểm tra giấy phép","chọn nguồn ..., loại nguồn ... vì ...",0
+2026-09-18,Nhom 3,Step 2c,Cột traffic thiếu 0.0 theo cụm; nội suy hay bỏ?,Claude,khuyên interpolate(limit=3),kiểm tra không dùng giá trị tương lai,áp dụng limit=3,0

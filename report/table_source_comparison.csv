@@ -1,0 +1,7 @@
+metric,value
+overlap start,2023-09-15 08:00:00
+overlap end,2026-09-15 06:00:00
+steps only in primary,0
+steps only in secondary,0
+latest timestamp primary,2026-09-15 06:00:00
+latest timestamp secondary,2026-09-15 06:00:00
