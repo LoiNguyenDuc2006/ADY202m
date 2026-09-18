@@ -1,0 +1,5 @@
+feature_set,MAE,relative_to_full
+full,0.0221,1.0
+without secondary source,0.0223,1.009
+without calendar,0.025,1.131
+lags only,0.0257,1.163

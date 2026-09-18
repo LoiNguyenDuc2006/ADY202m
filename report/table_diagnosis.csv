@@ -1,0 +1,7 @@
+question,value
+beats seasonal naive (MASE < 1),0.283
+rolling-origin spread (max/min MAE),1.494
+relative loss on unseen units,0.268
+conformal coverage (target 0.90),0.932
+best warning F1,0.843
+MAE increase without secondary source,0.009
